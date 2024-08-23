@@ -12,10 +12,11 @@ Everything related to the electrical (and software/driver) part of the project
 * Angel of sight: 10° (2.5mm pitch, greetings from pythagoras)
   * 36 frames per rotation = 864 Hz  
 
-### LEDs
+### LEDs (Fabi & Torben)
 * 0404 (RG)B LED
 * max. 10 width (2.5mm pitch)
 * max. 20 height (2.5mm pitch)
+* charlie plexed
 
 ### PCB / Controller
 * STM32F401 (84Mhz) + integrated IDE
@@ -40,16 +41,23 @@ Everything related to mechanical, moving parts like motor, gear etc.
 * timing belt(Zahnriehmen)
 * gears printed or aliexpress (plastic)
 
-## Motorcontroller
+## Motorcontroller (Fabi)
 * recycle design
 
 
 
 # Software
-
+Everything related to the software part of the project
 
 ## LED Driver / Signal Processing
 * compact written
+* Speed, written from motor
+* charlie plexed
+* port mapping (LEDs)
+* decode of UART Signal
+    * somehow know which letter is displayed
+
+* timing!!!
 
 
 ## Motor Driver
