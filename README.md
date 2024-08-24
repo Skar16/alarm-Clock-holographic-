@@ -1,8 +1,6 @@
 # alarm-Clock-holographic-
 This repo will include all technical and descriptive documentation of the university project "a alarm clock with holographic(spinning) threedimensional number display"
 
-Torben benutzt Linux und ist deswegen besser als alle anderen
-
 alarm clock spinning LED
 
 # Electrical
