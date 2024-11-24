@@ -1,0 +1,3 @@
+[submodule "stm_holographic_projection"]
+	path = stm_holographic_projection
+	url = git@github.com:Skar16/stm_holographic_projection.git
